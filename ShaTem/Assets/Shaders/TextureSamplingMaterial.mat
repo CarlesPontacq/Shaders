@@ -67,8 +67,8 @@ Material:
         m_Offset: {x: 0, y: 0}
     - _Map:
         m_Texture: {fileID: 2800000, guid: 8eb610623faf2874eb7806d5e21e7f20, type: 3}
-        m_Scale: {x: 2, y: 2}
-        m_Offset: {x: 0.5, y: 0.5}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
     - _MetallicGlossMap:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
@@ -137,6 +137,7 @@ Material:
     - _TimeSpeed: 0
     - _Velocity: 0.25
     - _WorkflowMode: 1
+    - _WorldTileScale: 0.1
     - _ZWrite: 1
     m_Colors:
     - _BaseColor: {r: 1, g: 1, b: 1, a: 1}
